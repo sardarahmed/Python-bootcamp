@@ -1,6 +1,6 @@
 print(-7//3)
 
-print(" my name is Ahmed \n my father name is Nazar")
+print(" my name is Ahmed \n my father \a name is Nazar")
 print("""
     My name is Ahmed
     My father name is Nazar
