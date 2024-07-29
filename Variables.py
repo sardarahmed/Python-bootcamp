@@ -56,4 +56,4 @@ print('Area of circle is ', 3.14*circle_radius**2)
 
 fahrenheit = float(input('Enter temperature in fahrenheit \n'))
 
-print ('Temp in fahrenheit: ', fahrenheit, ' in celcius = ', (fahrenheit-32)*5/9)
+print ('Temp in fahrenheit:  ', fahrenheit, ' in celcius = ', (fahrenheit-32)*5/9)
